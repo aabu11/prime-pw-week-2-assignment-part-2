@@ -22,7 +22,7 @@ if (number >= 2) {
   console.log('yes');
 }
 
-*/
+*/c
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
@@ -54,7 +54,7 @@ if (name === 'Mary') {
 /*
 
 
-Since 123 equats to 123, should only compute first if case. 
+Since 123 equats to 123, should only compute first if case. Get multipled by 2
 let secret;
 
 let code = 123;
@@ -165,7 +165,8 @@ if (temp > 39 || time >= 4) {
 
 
 // Should've added else { (age >= minAge) console.log is yes (enter)
-
+    
+      //console log  are switched in wrong spots
 
 /*
 let age = 21;
