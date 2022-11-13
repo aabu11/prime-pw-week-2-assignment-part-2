@@ -45,7 +45,8 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// With a triple ='s sign, console.log will read "How do you do" (false) because Mary isn't the same as Dane.
+// With a triple ='s sign, 
+//console.log will read "How do you do" (false) because Mary isn't the same as Dane.
 // 
 // 
 //
